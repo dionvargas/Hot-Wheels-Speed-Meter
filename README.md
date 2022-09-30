@@ -20,5 +20,5 @@ Jumpers para protoboard.
 
 ### Montagem eletrônica
 
-![arduino-maze-ball](img/hot-wheels-speed-meter.svg)
+![hot-wheels-speed-meter](img/hot-wheels-speed-meter.svg)
 
